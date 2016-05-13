@@ -18,7 +18,7 @@
 tomee:
 #  version: 1.7.+
 #  repository_root: "{default.repository.root}/tomee"
-  version: 1.7.4
+  version: 1.7.+
   repository_root: "http://www.apache.org/dyn/closer.cgi/tomee/tomee-1.7.4/apache-tomee-1.7.4-plume.tar.gz"
   context_path: 
   external_configuration_enabled: false
